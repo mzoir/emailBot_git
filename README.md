@@ -4,6 +4,8 @@ Steps for anyone to download and run the project
 
 
 git clone https://github.com/mzoir/emailBot_git.git
+
+
 cd emailBot_git
 
 
