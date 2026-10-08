@@ -1,0 +1,8 @@
+credentials.json
+token.json
+sent.csv
+companies.csv
+*.pdf
+.env
+__pycache__/
+*.pyc
