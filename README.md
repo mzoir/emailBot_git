@@ -11,7 +11,7 @@ cd emailBot_git
 
 1. Install Python 3.
 2. Install dependencies:
-pip install -r requirements.txt
+pip install -r requirements.txt or pip install google-api-python-client google-auth google-auth-oauthlib dnspython
 
 
 3. Create Google OAuth credentials and download credentials.json.
