@@ -1,3 +1,21 @@
+Steps for anyone to download and run the project
+git clone https://github.com/mzoir/emailBot_git.git
+cd emailBot_git
+
+
+1. Install Python 3.
+2. Install dependencies:
+pip install -r requirements.txt
+
+
+3. Create Google OAuth credentials and download credentials.json.
+4. Place credentials.json in the project folder, using that exact filename.
+5. Open bot.py and fill in your personal information and CV filename.
+6. Create companies.csv with the company names and email addresses to contact.
+7. Run the bot:
+python bot.py
+
+
 # emailBot_git
 automation bot using gmail api
 # 📧 Gmail Application Bot
